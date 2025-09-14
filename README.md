@@ -68,7 +68,7 @@ Verify:
 
 Run the script:
 
-` python downloader.py `
+` python yt.py `
 
 
 You will be prompted to:
